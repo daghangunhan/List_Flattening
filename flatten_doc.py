@@ -1,4 +1,3 @@
-#a=input("Enter a list which you want to flatten:\n")
 l=[[1,'a',['cat'],2],[[[3]],'dog'],4,5]
 i=0
 while i<len(l):
