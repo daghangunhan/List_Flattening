@@ -1,3 +1,3 @@
-# List_Flattening
+# List_Flattening and Reversing
 
-This code flatten the entered list.
+This code flatten and reverse the entered list.
